@@ -15,6 +15,12 @@ namespace Homework_05_Task_03
 
         static void Main(string[] args)
         {
+            /*  Homework_05_Task_03 Derushko Pavel
+             * Для двух строк написать метод, определяющий,
+             * является ли одна строка перестановкой другой.
+             * Например: badc являются перестановкой abcd.
+             */
+
             while (true)
             {
                 Console.Write("Input first word: ");
